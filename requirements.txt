@@ -1,3 +1,2 @@
 streamlit
 fpdf
-Add requirements.txt with streamlit and fpdf
